@@ -1,6 +1,6 @@
 {
   "meta": {
-    "created": "2024-10-08T15:43:26.707690641+03:00"
+    "created": "2025-12-30T15:30:41.005646+01:00"
   },
   "data": [
     {
@@ -50,7 +50,27 @@
           "tmID": "omnicorp/omnicorp/lightall/v1.0.0-20241008124326-6e351cc95192.tm.json",
           "digest": "6e351cc95192",
           "timestamp": "20241008124326",
-          "externalID": ""
+          "externalID": "",
+          "attachments": [
+            {
+              "name": "lightall-v1.svg",
+              "mediaType": "image/svg+xml"
+            },
+            {
+              "name": "lightall-v1.png",
+              "mediaType": "image/png"
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "name": "lightall-v2.svg",
+          "mediaType": "image/svg+xml"
+        },
+        {
+          "name": "lightall-v2.png",
+          "mediaType": "image/png"
         }
       ]
     },
@@ -77,6 +97,16 @@
           "timestamp": "20241008124326",
           "externalID": ""
         }
+      ],
+      "attachments": [
+        {
+          "name": "lightall-v1.svg",
+          "mediaType": "image/svg+xml"
+        },
+        {
+          "name": "lightall-v1.png",
+          "mediaType": "image/png"
+        }
       ]
     },
     {
@@ -101,6 +131,16 @@
           "digest": "15af48381cf7",
           "timestamp": "20241008124326",
           "externalID": ""
+        }
+      ],
+      "attachments": [
+        {
+          "name": "senseall-v1.png",
+          "mediaType": "image/png"
+        },
+        {
+          "name": "senseall-v1.svg",
+          "mediaType": "image/svg+xml"
         }
       ]
     }
